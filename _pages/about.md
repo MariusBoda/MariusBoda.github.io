@@ -13,9 +13,7 @@ I am currently pursuing a Master of Science in Computer Science at Aalto Univers
 
 Previously, I earned my Bachelor of Science in Quantum Technology, also from Aalto University. I bring applied industry experience in computer vision and image signal processing. I recently worked as a Systems Development Engineer Intern at Amazon, where I formulated a novel hierarchical spatiotemporal machine learning network to mitigate sensor noise and motion blur. Before that, I was a Computer Vision Intern at Oyla AI in California.
 
-**[Click here to download my full CV as a PDF](/files/marius_boda_cv.pdf)**
-
 ### Recent News
-* **[August 2025]** Completed my Systems Development Engineer Internship at Amazon's Ring IQ FW Team.
+* **[August 2025]** Completed my SDE Internship at Amazon.
 * **[January 2025]** Joined Aalto University as a Graduate Research Assistant.
 * **[June 2024]** Started my M.Sc. in Computer Science at Aalto University.
