@@ -1,152 +1,85 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "name": "Marius Boda",
+    "email": "marius.boda@aalto.fi",
+    "phone": "+358 45 78384488",
+    "profiles": {
+      "linkedin": "linkedin.com/in/marius-boda/",
+      "github": "github.com/MariusBoda"
+    }
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Aalto University",
+      "degree": "Master of Science, Computer Science",
+      "time": "Jun 2024 - May 2026",
+      "details": [
+        "Major - Machine Learning, Data Science, and Artificial Intelligence",
+        "Thesis - Noise Reduction limits in Nonlinear Dynamical Systems"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Aalto University",
+      "degree": "Bachelor of Science, Quantum Technology",
+      "time": "Sep 2021 - May 2024",
+      "details": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "experience": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "role": "Graduate Research Assistant (Machine Learning & Nonlinear Dynamics)",
+      "company": "Aalto University",
+      "location": "Espoo, Finland",
+      "time": "Jan 2025-Present",
+      "details": [
+        "Investigating noise reduction limits in nonlinear dynamical systems, developing mathematical formulations to estimate theoretical signal recovery bounds in stochastic environments",
+        "Designing system identification algorithms to forecast the behavior of coupled networks under heavy noise, creating a physics-informed baseline to evaluate deep learning approaches for large-scale dynamics",
+        "Simulating synchronization dynamics to model noise propagation in complex networks, establishing foundational methods for identifying signal limitations in non-linear control systems"
+      ]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "role": "Systems Development Engineer Intern (Ring IQ FW Team)",
+      "company": "Amazon",
+      "location": "Tampere, Finland",
+      "time": "Jun 2025-Aug 2025",
+      "details": [
+        "Formulated a novel hierarchical spatiotemporal machine learning network that integrates geometric alignment (STN) with a temporal attention mechanism, mathematically constraining the aggregation of frames to effectively mitigate stochastic sensor noise and motion blur",
+        "Integrated a region-of-interest detector to guide the enhancement pipeline, utilizing transfer learning on data augmented with device-specific noise profiles to robustly adapt the model to the target sensor's unique degradation characteristics",
+        "Researched and prototyped inverse ISP processes and novel video enhancement techniques, including movement flow analysis, Gated Enhancement Units (GEUs), UNets, and custom data generation pipelines",
+        "Delivered a live demo of the POC to Amazon Ring Founder Jaimie Siminoff"
+      ]
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "role": "Computer Vision Intern",
+      "company": "Oyla AI",
+      "location": "San Carlos, CA, USA",
+      "time": "Jun 2022-Aug 2022",
+      "details": [
+        "Developed Linux scripts to enhance image capture, parameter optimization, and calibration for Raspberry Pi cameras",
+        "Collected time-series 3D video, thermal, and eRGB data, along with LiDAR and video integration"
+      ]
     }
   ],
-  "presentations": [
+  "skills": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "category": "Programming Languages & Tools",
+      "items": "Python, R, Java, Scala, Bash/Shell Scripting, Git, Pandas, NumPy"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "category": "Machine Learning & AI",
+      "items": "PyTorch, Deep Learning, MetaFlow, TensorFlow, Transformers, Computer Vision, Image Signal Processing (ISP), Deep Generative Models"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "category": "Mathematics & Theoretical Knowledge",
+      "items": "Data Structures & Algorithms, Stochastic Processes, Markov Chains, Linear Algebra, Dynamical Systems, Physics-based Modeling"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "category": "Languages",
+      "items": "Finnish, English"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "category": "Interests",
+      "items": "Puzzles, Self-Directed Stocks Trading, Strategic Video Games, Rock Climbing"
     }
   ]
 }
