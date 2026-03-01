@@ -1,5 +1,19 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
+
+@charset "utf-8";
+
+/* ==========================================================================
+   Marius's Custom Dark Blue Theme Overrides
+   ========================================================================== */
+$background-color: #2c2c34;
+$text-color: #fdfdfd;
+$primary-color: #7abaff;
+$border-color: #44444c;
+$lighter-base-color: #36363f;
+$code-background-color: #1e1e24;
+$masthead-title-color: #fdfdfd;
 
 /*
  * This file controls what is imported from /_sass
@@ -41,3 +55,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   Force Cascade Overrides (Ensures the dark blue applies everywhere)
+   ========================================================================== */
+body, .page__content {
+  background-color: $background-color !important;
+  color: $text-color !important;
+}
+
+.author__name, .author__bio, .nav__title {
+  color: $text-color !important;
+}
+
+a {
+  color: $primary-color;
+}
