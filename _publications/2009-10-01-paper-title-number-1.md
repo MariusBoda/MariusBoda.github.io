@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Contactless vital signs measurement along the patient journey: design for explainable AI solutions"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-02-05-contactless-vital-signs
+excerpt: 'This paper presents a user-centered design framework for integrating contactless vital signs measurement into clinical workflows, with an emphasis on explainable and trustworthy AI.'
+date: 2026-02-05
+venue: 'Design for Health'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/24735132.2026.2621372'
+citation: 'Boda, P. P., et al. (2026). &quot;Contactless vital signs measurement along the patient journey: design for explainable AI solutions.&quot; <i>Design for Health</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Applications, including telemedicine and remote patient monitoring, along with new emerging care models aim to place the patient at the centre of care, with emphasis on outcomes, patient experience, and the delivered value. This paper presents a user-centered design framework for integrating contactless vital signs measurement into clinical workflows. 
+
+Since this technology is not yet widely deployed in standard clinical use, its use implies novel design challenges. The primary contribution is a participatory process for presenting acquired vital signs in an explainable and trustworthy way.
