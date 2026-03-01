@@ -71,3 +71,19 @@ body, .page__content {
 a {
   color: $primary-color;
 }
+
+/* Target the top navigation bar and footer */
+.masthead {
+  background-color: $background-color !important;
+  border-bottom: 1px solid $border-color !important; /* Adds a subtle line to separate the menu */
+}
+
+.page__footer, .page__footer footer {
+  background-color: $background-color !important;
+  color: $text-color !important;
+}
+
+/* Ensure the sticky sidebar background matches */
+.sidebar {
+  background-color: $background-color !important;
+}
